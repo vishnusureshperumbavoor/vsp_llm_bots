@@ -2,7 +2,6 @@ streamlit
 transformers
 gtts
 SpeechRecognition
-pyaudio
 wave
 yfinance
 pandas
