@@ -1,0 +1,12 @@
+streamlit
+transformers
+gtts
+SpeechRecognition
+pyaudio
+wave
+yfinance
+pandas
+numpy
+scikit-learn
+tensorflow
+
