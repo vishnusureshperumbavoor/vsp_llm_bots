@@ -1,3 +1,5 @@
-streamlit
+streamlit==1.23.1
 transformers
 gtts
+numpy<1.24,>=1.22
+urllib3<2.0

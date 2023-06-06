@@ -10,7 +10,7 @@ st.set_page_config(
 model = pipeline("text-generation")
 
 # Create the chat bot interface
-st.title("VSP Text Generation Bot")
+st.title("VSP Chatbot")
 
 # Get the user's input
 user_input = st.text_input("What do you want to talk about?")
